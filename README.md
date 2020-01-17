@@ -1,3 +1,3 @@
 # Ejercicio1_ORACLE_MYSQL
-##ORACLE_MYSQL
+Practicas de ORACLE y MYSQL
 :shipit:
