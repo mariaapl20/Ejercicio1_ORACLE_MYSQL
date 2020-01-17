@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
-	<name>EJEMPLO_ED</name>
+	<name>pru</name>
 	<comment></comment>
 	<projects>
 	</projects>
@@ -14,16 +14,4 @@
 	<natures>
 		<nature>org.eclipse.jdt.core.javanature</nature>
 	</natures>
-	<linkedResources>
-		<link>
-			<name>DATABASE/MY_SQL.sql</name>
-			<type>1</type>
-			<location>C:/Users/Medac/Desktop/MY_SQL.sql</location>
-		</link>
-		<link>
-			<name>DATABASE/ORACLE.sql</name>
-			<type>1</type>
-			<location>C:/Users/Medac/Desktop/ORACLE.sql</location>
-		</link>
-	</linkedResources>
 </projectDescription>
